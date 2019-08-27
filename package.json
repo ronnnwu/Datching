@@ -1,0 +1,41 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "^34.0.1",
+    "firebase": "^5.11.0",
+    "lodash.isequal": "^4.5.0",
+    "moment": "^2.22.2",
+    "react": "16.6.1",
+    "react-dom": "^16.8.6",
+    "react-native": "^0.60.5",
+    "react-native-actionsheet": "^2.4.2",
+    "react-native-button": "^2.3.0",
+    "react-native-dialog-input": "^1.0.6",
+    "react-native-elements": "^0.19.1",
+    "react-native-expo-image-cache": "^4.0.8", 
+    "react-native-image-picker": "^0.27.2",
+    "react-native-interactable": "^0.1.10",
+    "react-native-keyboard-aware-scroll-view": "^0.8.0",
+    "react-native-keyboard-aware-view": "0.0.14",
+    "react-native-scrollable-tab-view": "^0.10.0",
+    "react-native-splash-screen": "^3.2.0",
+    "react-native-swiper": "^1.5.14",
+    "react-native-vector-icons": "^6.1.0",
+    "react-native-web": "^0.11.4",
+    "react-navigation": "^2.17.0",
+    "react-navigation-redux-helpers": "^2.0.6",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^6.0.0"
+  },
+  "private": true
+}
